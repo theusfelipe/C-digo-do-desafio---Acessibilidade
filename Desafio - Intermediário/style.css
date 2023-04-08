@@ -97,6 +97,11 @@ button {
   cursor: pointer;
 }
 
+button:hover {
+  background: #0a7c54;
+  transition: 0.5s;
+}
+
 footer {
   font-size: 14px;
   line-height: 28px;
